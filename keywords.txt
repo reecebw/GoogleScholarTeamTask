@@ -1,0 +1,11 @@
+Medium-Term Scheduler
+Process Mix
+CPU Utilization
+Cascading Termination
+External Data Representation
+Interprocess Communication
+Named Pipe
+Rendezvous Daemon
+Section Object
+Communication Link
+Unbounded Buffer
